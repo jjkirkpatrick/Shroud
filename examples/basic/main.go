@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	shroud "./.."
+	"github.com/jjkirkpatrick/shroud"
 )
 
 func main() {
